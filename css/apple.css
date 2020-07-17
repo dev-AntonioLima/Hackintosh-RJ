@@ -73,30 +73,36 @@ width: 100%;
 background-color: rgba(0, 0, 0, 0.423);
 margin-top: 0.4%;
 margin-bottom: 5%;
-width: 100%;
+margin-right: 15%;
+margin-left: 15%;
+width: 70%;
 text-align: center;
-padding: 20px;
+padding: 10px;
 display: block;
 }
 
 .hackintosh{
-background-color: rgba(0, 0, 0, 0.423);
-margin-top: 0.4%;
-margin-bottom: 5%;
-width: 100%;
-text-align: center;
-padding: 20px;
-display: block;
+    background-color: rgba(0, 0, 0, 0.423);
+    margin-top: 0.4%;
+    margin-bottom: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+    padding: 10px;
+    display: block;
 }
 
 .guide{
-background-color: rgba(0, 0, 0, 0.423);
-margin-top: 0.4%;
-margin-bottom: 5%;
-width: 100%;
-text-align: center;
-padding: 20px;
-display: block;
+    background-color: rgba(0, 0, 0, 0.423);
+    margin-top: 0.4%;
+    margin-bottom: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+    padding: 10px;
+    display: block;
 }
 
 .guide img{
